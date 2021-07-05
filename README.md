@@ -23,7 +23,7 @@ Este é um projeto desenvolvido durante a **[Next Level Week Together](https://n
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [Sass] (https://sass-lang.com/)
+- [Sass](https://sass-lang.com)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
