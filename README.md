@@ -2,13 +2,17 @@
   <img alt="Letmeask" src=".github/logo.svg" width="160px">
 </p>
 
-
 <h1 align="center">
     <img alt="Letmeask" src=".github/cover.svg" />
 </h1>
 
+<br>
 
-
+<p align="center">
+  <a href="https://letmeask-efccf.web.app/" target="_blank">
+    click here to access the deploy
+  </a>
+</p>
 
 ## 💻 Project
 
