@@ -10,42 +10,39 @@
 
 
 
-## 💻 Projeto
+## 💻 Project
 
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
-
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+Letmeask is perfect for content creators to create Q&A rooms with their audience in a very organized and democratic way.
 
 <br>
 
-## 🧪 Tecnologias
+## 🧪 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [Sass](https://sass-lang.com)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Como executar
+## 🚀 How to run
 
-Clone o projeto e acesse a pasta do mesmo.
+Clone the project and access its folder.
 
 ```bash
 $ git clone https://github.com/rocketseat-education/nlw-06-reactjs
 $ cd nlw-06-reactjs
 ```
 
-Para iniciá-lo, siga os passos abaixo:
+To start it, follow the steps below:
 ```bash
-# Instalar as dependências
+# Install dependencies
 $ yarn
 
-# Iniciar o projeto
+# Start the project
 $ yarn start
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
+Remembering that you will need to create an account on [Firebase](https://firebase.google.com/) and a project to provide a Realtime Database.
 
 
